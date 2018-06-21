@@ -1,4 +1,4 @@
-<h1> Welcome to 李锦豪的学习网站 QQ:416448317</h1>
+# Welcome to 李锦豪的学习网站 QQ:416448317
 本网站所用模板地址 [点击查看](https://github.com/cuteftp/cuteftp.github.io/){:target="_blank"} ,欢迎转载.
 
 每一次更新页面, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
