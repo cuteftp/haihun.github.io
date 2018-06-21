@@ -5,9 +5,9 @@
 
 每一次更新页面, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ### 微信小程序开发资源
-1、[微信小程序设置底部导航栏目方法](https://blog.csdn.net/u012118993/article/details/52943783){:target="_blank"} 
-2、[微信小程序之map地图](https://blog.csdn.net/hedong_77/article/details/55189978){:target="_blank"}
-3、[微信小程序发布流程](https://jingyan.baidu.com/article/fea4511a2e027cf7bb91250c.html ){:target="_blank"}
+1、[微信小程序设置底部导航栏目方法](https://blog.csdn.net/u012118993/article/details/52943783){:target="_blank"} <br>
+2、[微信小程序之map地图](https://blog.csdn.net/hedong_77/article/details/55189978){:target="_blank"}<br>
+3、[微信小程序发布流程](https://jingyan.baidu.com/article/fea4511a2e027cf7bb91250c.html ){:target="_blank"}<br>
 4、[微信小程序视频教程](https://pan.baidu.com/s/1kUXxZ0b){:target="_blank"}
 
 ###  学习网站
