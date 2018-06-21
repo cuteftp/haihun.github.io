@@ -13,15 +13,14 @@
 ###  学习网站
 
 1. [在线训练营](https://www.freecodecamp.cn/){:target="_blank"}
-2. 大牛的博客
+2. 大牛的博客<br>
 1）[Gaohaoyang的博客1](https://gaohaoyang.github.io/){:target="_blank"}<br>
    [Gaohaoyang的博客模板下载地址1](https://github.com/gaohaoyang/gaohaoyang.github.io){:target="_blank"}<br>
 2）[xudailong的博客](https://643435675.github.io/){:target="_blank"}从Gaohaoyang博客forked过来的 
 [xudailong的博客模板下载地址1](https://github.com/643435675/643435675.github.io/){:target="_blank"}<br>
-3）潘柏信的[博客](http://baixin.io/){:target="_blank"}，也是本站目前使用的模板
+3）潘柏信的[博客](http://baixin.io/){:target="_blank"}<br>
   [博客模板2](https://github.com/leopardpan/leopardpan.github.io){:target="_blank"}<br>
-3.leopard的[博客模板3](https://github.com/MengZheK/kangblog.github.io){:target="_blank"}
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for<br>
+3.leopard的[博客模板3](https://github.com/MengZheK/kangblog.github.io){:target="_blank"}<br>
 4.[GitHub搭建个人网站](https://pages.github.com/){:target="_blank"}
 
 ### GitHub搭建个人网站
