@@ -1,34 +1,34 @@
 # Basic
-title: 李锦豪
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: 李永红
+subtitle: 个人学习资源站
+description: 欢迎来到我的个人学习资源站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: cuteftp
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: WEB前端开发/图像处理/机器学习
+url: "http://cuteftp.tech"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: cuteftp
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    QQ:  28506267
+    github: cuteftp
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: cuteftp@163.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id: 8ba1c6be0953b6f9c2ba38e57f615421  
+    id: f9c2ba38e57f615421  
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
 ga:
-    id: UA-84134159-3   
+    id: UA-841-3   
     host: auto  
 
 
