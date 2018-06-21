@@ -12,12 +12,6 @@
 
 ###  学习网站
 1. [在线训练营](https://www.freecodecamp.cn/){:target="_blank"}
-
-### GitHub搭建个人网站
-(https://pages.github.com){:target="_blank"}
-(http://blog.csdn.net/wangyj1108/article/details/51444419){:target="_blank"}
-(https://www.cnblogs.com/joshtao/articles/6601430.html){:target="_blank"}
-
 2. 大牛的博客<br>
 1）[Gaohaoyang的博客1](https://gaohaoyang.github.io/){:target="_blank"}
    [Gaohaoyang的博客模板下载地址1](https://github.com/gaohaoyang/gaohaoyang.github.io){:target="_blank"}<br>
