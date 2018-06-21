@@ -16,7 +16,7 @@
 2. 大牛的博客<br>
 1）[Gaohaoyang的博客1](https://gaohaoyang.github.io/){:target="_blank"}<br>
    [Gaohaoyang的博客模板下载地址1](https://github.com/gaohaoyang/gaohaoyang.github.io){:target="_blank"}<br>
-2）[xudailong的博客](https://643435675.github.io/){:target="_blank"}从Gaohaoyang博客forked过来的 
+2）[xudailong的博客](https://643435675.github.io/){:target="_blank"}<br>
 [xudailong的博客模板下载地址1](https://github.com/643435675/643435675.github.io/){:target="_blank"}<br>
 3）潘柏信的[博客](http://baixin.io/){:target="_blank"}<br>
   [博客模板2](https://github.com/leopardpan/leopardpan.github.io){:target="_blank"}<br>
