@@ -2,21 +2,15 @@
 layout: page
 title: 关于我 
 ---
-
-一个 iOS SDK 开发者，喜欢研究一些新技术。
+一个前端开发的喜爱者，喜欢打了一堆代码实现后的心情！!
 <p>
-平时喜欢整理个人博客，逛逛技术论坛。
+平时喜欢打游戏，学习了一些技术之后，有时后打打代码！！
 <p>
-了解一些 前端 基本概念和 Python 的简单用法。
-
-<p>
-
-<h3> 我们的博客 </h3>  
+了解一些 前端 基本概念的简单用法！！
 
 <p>
 
-是的，这个博客是我们大家的，目前已经有很大一部分人在使用我的博客模板了，我也很高兴大家使用我的模板。
-
+<h3> 此博客 </h3>  
 <p>
 
 如果你想搭建一个跟我一样的博客，可以看我的 
@@ -29,14 +23,14 @@ title: 关于我
 
 <p> 
 
-博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
+博客源码在 <a target="_blank" href='https://github.com/haihun/haihun.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
 
-<p> 
-
-<p> 
-
-<p> 
-
+<h3> 联系方式 </h3> 
+```markdown
+qq:416448317
+WeChat:lijinhao1818
+邮箱：416448317@qq.com
+```
 
 {% include comments.html %}
 

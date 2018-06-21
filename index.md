@@ -20,29 +20,11 @@
   [博客模板2](https://github.com/leopardpan/leopardpan.github.io){:target="_blank"}
 3.leopard的[博客模板3](https://github.com/MengZheK/kangblog.github.io){:target="_blank"}
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-4.[GitHub搭建个人网站](https://pages.github.com/){:target="_blank"}
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+4.[GitHub搭建个人网站](https://pages.github.com/){:target="_blank"
 
 ### GitHub搭建个人网站
-https://pages.github.com/
-http://blog.csdn.net/wangyj1108/article/details/51444419
-https://www.cnblogs.com/joshtao/articles/6601430.html
+(https://pages.github.com){:target="_blank"}
+(http://blog.csdn.net/wangyj1108/article/details/51444419){:target="_blank"}
+(https://www.cnblogs.com/joshtao/articles/6601430.html){:target="_blank"}
+
+
