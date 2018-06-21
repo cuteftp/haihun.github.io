@@ -8,10 +8,10 @@
 3、[微信小程序发布流程](https://jingyan.baidu.com/article/fea4511a2e027cf7bb91250c.html ){:target="_blank"}
 4、[微信小程序视频教程](https://pan.baidu.com/s/1kUXxZ0b){:target="_blank"}
 
-### 参考网页
+###  学习网站
 
-1.  如何在github上搭建网站？[查看详细步骤](https://www.cnblogs.com/camille666/p/how_to_build_website_at_github.html/){:target="_blank"},这个文章包含了详细的操作过程，还有域名的解析等
-2.  觉得自己重头建一个博客太麻烦，那么直接从下面几个大牛的博客复制一个吧
+1. [在线训练营](https://www.freecodecamp.cn/){:target="_blank"}
+2. 大牛的博客
 1）[Gaohaoyang的博客1](https://gaohaoyang.github.io/){:target="_blank"}
    [Gaohaoyang的博客模板下载地址1](https://github.com/gaohaoyang/gaohaoyang.github.io){:target="_blank"}
 2）[xudailong的博客](https://643435675.github.io/){:target="_blank"} 从Gaohaoyang博客forked过来的 
@@ -20,6 +20,9 @@
   [博客模板2](https://github.com/leopardpan/leopardpan.github.io){:target="_blank"}
 3.leopard的[博客模板3](https://github.com/MengZheK/kangblog.github.io){:target="_blank"}
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```markdown
+123
+```
 
 ```markdown
 Syntax highlighted code block
