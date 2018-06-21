@@ -3,10 +3,10 @@ title: 李锦豪
 subtitle: 个人学习资源站
 description: 欢迎来到我的个人学习资源站~
 # 头像里面的标题
-avatarTitle: 123
+avatarTitle: 个人网站
 # 头像里面的描述
-avatarDesc: 123前端开发/图像处理
-url: "http://cuteftp.tech"
+avatarDesc: 前端开发学习/微信小程序
+url: "https://haihun.github.io"
 
 # Comment
 comment:
@@ -15,10 +15,10 @@ comment:
 
 # Social
 social:
-    QQ:  28506267
-    github: cuteftp
+    QQ:  416448317
+    github: haihun
     # twitter: 
-    mail: cuteftp@163.com
+    mail: 416448317@qq.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
@@ -36,7 +36,7 @@ ga:
 #
 #
 #  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
+#  帮忙star一下，感谢~😆 地址： https://github.com/haihun/haihun.github.io
 #
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
