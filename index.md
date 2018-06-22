@@ -31,7 +31,7 @@
 [余丽炫的博客](https://lixuan－sunshine.github.io/){:target="_blank"}<br>
 [张红霞的博客](https://lanhua123.github.io/){:target="_blank"}<br>
 [邱吉灵的博客](https://xitingji.github.io/){:target="_blank"}<br>
-[欧晓婷的博客]（https://ouxiaoting.github.io/）{:target=" blank"}<br>
+[欧晓婷的博客](https：//ouxiaoting.github.io/){:target="_blank"}<br>
 [张翡驿的博客](https://zhangfeiyi.github.io/){:target="_blank"}<br>
 [赵书瑕的博客](https://1083256436.github.io/){:target="_blank"}<br>
 [张敏的博客](https://zmdmz.github.io/){:target="_blank"}<br>
