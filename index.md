@@ -27,5 +27,40 @@
 [网站Ⅱ](http://blog.csdn.net/wangyj1108/article/details/51444419){:target="_blank"}
 [网站III](https://www.cnblogs.com/joshtao/articles/6601430.html){:target="_blank"}
 
+### 通信3-2同学的博客
+[余丽炫的博客](https://lixuan－sunshine.github.io/){:target="_blank"}
+[张红霞的博客](https://lanhua123.github.io/){:target="_blank"}
+[邱吉灵的博客](https://xitingji.github.io/){:target="_blank"}
+[欧晓婷的博客]（https://ouxiaoting.github.io/）{:target="_blank"}
+[张翡驿的博客](https://zhangfeiyi.github.io/){:target="_blank"}
+[赵书瑕的博客](https://1083256436.github.io/){:target="_blank"}
+[张敏的博客](https://zmdmz.github.io/){:target="_blank"}
+[莫锋的博客](https://1751864058.github.io/){:target="_blank"}
+[钟丹纯的博客](https://zhongdanchun.github.io/){:target="_blank"}
+[刘燕丹的博客](http://lyd2580.github.io/){:target="_blank"}
+[叶丽佳的博客](https://double-digit.github.io/){:target="_blank"}
+[张加谊的博客](https://lissa-321.github.io/){:target="_blank"}
+[洪紫婷的博客](https://holly25.github.io/){:target="_blank"}
+[伍思俊的博客](https://5cccc.github.io/){:target="_blank"}
+[陈泽纬的博客](https://midfaker.github.io/){:target="_blank"}
+[陈佳立的博客](https://jbdxbl5.io/){:target="_blank"}
+[黄正鑫的博客](https://hzx9916.github.io/){:target="_blank"}
+[高美芳的博客](https://Gaomeifang.github.io/){:target="_blank"}
+[张秋瑶的博客](https://libra-yoyo.github.io/){:target="_blank"}
+[郑培杰的博客](https://air5.github.io/){:target="_blank"}
+[谢林潼的博客](https://lintongg.github.io/){:target="_blank"}
+[戴佳炜的博客](https://161492.github.io/){:target="_blank"}
+[丘健聪的博客](https://smalle56.github.io/){:target="_blank"}
+[丘吉灵的博客](https://xitingji.github.io/){:target="_blank"}
+[黄颖的博客](https://hymusic.github.io/){:target="_blank"}
+
+
+
+
+
+
+
+
+
 
 
